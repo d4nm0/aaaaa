@@ -3087,7 +3087,7 @@ class Core extends BaseApi
     {
         $d = $this->checkParams(
             [
-                'param_name' => 'string'
+                'param_nagfdffme' => 'string'
             ]
         );
 
