@@ -660,7 +660,7 @@ class Core extends BaseApi
         $d = $this->checkParams(
             [
                 'ei_api_permisskljklkjkion_id' => 'string',
-                'ei_api_role_id' => 'string'
+                'ei_api_rfdsdsdsole_id' => 'string'
             ]
         );
 
